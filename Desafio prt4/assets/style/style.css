@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+}
+
+#first {
+    background-color: #0f0;
+}
+
+#second {
+    background-color: #800080;
+}
+
+#third {
+    background-color: #ffa500;
+}
+
+#fourth {
+    background-color: #00ffff;
+}
